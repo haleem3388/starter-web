@@ -19,3 +19,5 @@ how git and github works as part of training demo.
 This script will deployed as part of training.
 
 ## How To Contribute
+
+2014 Git.Training.
