@@ -9,7 +9,7 @@ This example is to show different parts
 of the Git repository and various commands
 using a web project.
 
-## Purpose
+##Purpose
 
 As stated above, main purpose is to show
 how git and github works as part of training demo.
