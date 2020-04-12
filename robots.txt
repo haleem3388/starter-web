@@ -1,3 +1,6 @@
 # robotstxt.org/
 
 User-agent: *
+
+
+Please fork this repository and issue pull request
