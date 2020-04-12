@@ -12,8 +12,10 @@ using a web project.
 ## Purpose
 
 As stated above, main purpose is to show
-how git and github works.
+how git and github works as part of training demo.
 
 ##Deployment
+
+This script will deployed as part of training.
 
 ##How To Contribute
