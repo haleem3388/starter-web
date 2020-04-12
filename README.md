@@ -11,6 +11,9 @@ using a web project.
 
 ## Purpose
 
+As stated above, main purpose is to show
+how git and github works.
+
 ##Deployment
 
 ##How To Contribute
